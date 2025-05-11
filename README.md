@@ -1,10 +1,8 @@
 # Testes Automatizados e IA Generativa
 
-👋 Seja bem-vindo(a)!
+👋 Seja bem-vindo(a) ao meu reprositório desse curso que ameiii fazer ❤️
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
-
-## O que você vai aprender?
+## O que eu aprendi?
 
 - Básico de engenharia de prompt
 - Técnicas avançadas de engenharia de prompt
@@ -17,10 +15,5 @@
   - Revisão de testes automatizados com IA generativa
   - Análise de lacunas em testes automatizados com IA generativa
 
-## Vamos começar?
-
-Vá para a seção de [estrutura do curso](./lessons/_course-structure_.md).
-
-___
 
 Este é um curso da [**Escola Talking About Testing**](https://talking-about-testing.vercel.app/).
